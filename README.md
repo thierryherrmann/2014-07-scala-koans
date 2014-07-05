@@ -15,3 +15,6 @@ To quickly play with the koans in an Eclipse environment:
 
 The pom.xml excludes the scala library that is a depedencency of scala test since already comes with ScalaIDE (e.g. scala 2.11 comes with ScalaIDE 3.0.4)
 to avoid the 'More than one Scala library...' error (make sure you read  http://scala-ide.org/docs/user/faq.html to avoid any weird behavior with ScalaIDE)
+
+
+![Scala Koans in Scala IDE](https://github.com/thierryherrmann/scala-koans/blob/master/images/scala-koans-IDE.png)
