@@ -17,4 +17,4 @@ The pom.xml excludes the scala library that is a depedencency of scala test sinc
 to avoid the 'More than one Scala library...' error (make sure you read  http://scala-ide.org/docs/user/faq.html to avoid any weird behavior with ScalaIDE)
 
 
-![Scala Koans in Scala IDE](https://github.com/thierryherrmann/scala-koans/blob/master/images/scala-koans-IDE.png)
+![](images/scala-koans-IDE.png?raw=true)
