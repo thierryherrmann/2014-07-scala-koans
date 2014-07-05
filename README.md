@@ -3,7 +3,8 @@ scala-koans
 
 This is a copy of scala-koans from http://scalakoans.webfactional.com as of 2014-07-05 slightly updated to work with scalatest 2.2.0 and scala 2.11+
 
-License: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License]
+License: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+
 
 To quickly play with the koans in an Eclipse environment:
 
